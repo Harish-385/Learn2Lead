@@ -150,11 +150,11 @@ As the **Lead AI & Full-Stack Architect**, I designed and implemented this platf
 
 | Resume Intelligence & ATS Scoring | Personalized Learning Roadmap |
 | :---: | :---: |
-| <img src="docs/resume.png" width="440" alt="Resume Analysis" /> | <img src="docs/roadmap.png" width="440" alt="Learning Roadmap" /> |
+| <img src="docs/l2l_ats_analysis.png" width="440" alt="Resume Analysis" /> | <img src="docs/l2l_roadmap.png" width="440" alt="Learning Roadmap" /> |
 
 | AI Mock Interview Evaluation | Institutional Analytics View |
 | :---: | :---: |
-| <img src="docs/interview.png" width="440" alt="Interview Feedback" /> | <img src="docs/l2l_hub.png" width="440" alt="Hub View" /> |
+| <img src="docs/l2l_comm_mock.png" width="440" alt="Interview Feedback" /> | <img src="docs/l2l_hub.png" width="440" alt="Hub View" /> |
 
 ---
 
